@@ -7,4 +7,4 @@
 </p>
 </div>
 </footer>
-<!-- Fin del pie de la Página -->
+<!-- Fin del pie de la Página y ya-->
